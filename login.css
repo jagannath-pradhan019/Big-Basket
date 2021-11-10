@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(26, 24, 24, 0.5)50%,rgba(27, 26, 26, 0.5)50%),url(Img3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+h2{
+    text-align: left;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: whitesmoke;
+}
+.register{
+    text-align: left;
+    padding-left: 90px;
+    font-family: Georgia;
+    color: whitesmoke;
+}
+.login{
+    text-align: left;
+    padding-left: 90px ;
+    font-family: Georgia;
+    color: rgb(236, 229, 218);
+}
